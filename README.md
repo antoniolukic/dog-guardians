@@ -4,11 +4,11 @@
 
 ## Overview
 
-Čuvari-pasa is a modern web application built using React, Spring Boot, and PostgreSQL. It offers a convenient platform akin to Uber, but tailored specifically for dog walking services. Users can register, find dog walking opportunities, and even offer their own services as dog walkers.
+Čuvari-pasa is a modern web application built using *React*, *Spring Boot*, and *PostgreSQL*. It offers a convenient platform akin to Uber, but tailored specifically for dog walking services. Users can register, find dog walking opportunities, and even offer their own services as dog walkers.
 
 ## Getting Started
 
-To get started with Čuvari-pasa, follow these simple steps:
+To get started with Čuvari-pasa, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory of frontend and install dependencies `npm install`.
